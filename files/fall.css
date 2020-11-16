@@ -1,0 +1,23 @@
+#first {
+  color: blue;
+}
+p.fall {
+  text-align: right;
+}
+.outer {
+  background-color: blue;
+  padding: 10px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: orange;
+}
+.inner {
+  background-color: green;
+  margin: 5px;
+  border-style: solid;
+  border-width: 5rem;
+  border-color: gray;
+}
+.outer p {
+  color: pink;
+}
